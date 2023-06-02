@@ -1,0 +1,47 @@
+[2023-05-12, 20:26:13] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/core/classes/Database/DB.php(253): SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[2023-05-12, 20:36:33] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/core/classes/Database/DB.php(253): SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[2023-05-12, 20:45:11] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/core/classes/Database/DB.php(253): SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[2023-05-12, 23:10:29] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/vendor/samerton/i18next/src/i18next.php(180): Translation file not found
+[2023-05-12, 23:10:30] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/vendor/samerton/i18next/src/i18next.php(180): Translation file not found
+[2023-05-12, 23:10:32] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/vendor/samerton/i18next/src/i18next.php(180): Translation file not found
+[2023-05-12, 23:10:33] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/vendor/samerton/i18next/src/i18next.php(180): Translation file not found
+[2023-05-12, 23:10:34] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/vendor/samerton/i18next/src/i18next.php(180): Translation file not found
+[2023-05-12, 23:10:35] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/vendor/samerton/i18next/src/i18next.php(180): Translation file not found
+[2023-05-12, 23:10:35] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/vendor/samerton/i18next/src/i18next.php(180): Translation file not found
+[2023-05-12, 23:10:36] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/vendor/samerton/i18next/src/i18next.php(180): Translation file not found
+[2023-05-12, 23:10:37] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/vendor/samerton/i18next/src/i18next.php(180): Translation file not found
+[2023-05-12, 23:10:37] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/vendor/samerton/i18next/src/i18next.php(180): Translation file not found
+[2023-05-12, 23:10:38] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/vendor/samerton/i18next/src/i18next.php(180): Translation file not found
+[2023-05-12, 23:10:39] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/vendor/samerton/i18next/src/i18next.php(180): Translation file not found
+[2023-05-12, 23:10:40] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/vendor/samerton/i18next/src/i18next.php(180): Translation file not found
+[2023-05-12, 23:10:41] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/vendor/samerton/i18next/src/i18next.php(180): Translation file not found
+[2023-05-12, 23:10:42] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/vendor/samerton/i18next/src/i18next.php(180): Translation file not found
+[2023-05-12, 23:10:42] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/vendor/samerton/i18next/src/i18next.php(180): Translation file not found
+[2023-05-12, 23:10:43] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/vendor/samerton/i18next/src/i18next.php(180): Translation file not found
+[2023-05-12, 23:10:44] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/vendor/samerton/i18next/src/i18next.php(180): Translation file not found
+[2023-05-12, 23:10:44] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/vendor/samerton/i18next/src/i18next.php(180): Translation file not found
+[2023-05-12, 23:26:46] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/modules/CustomDropdown/module.php(113): Class 'Queries' not found
+[2023-05-12, 23:27:00] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/modules/CustomDropdown/module.php(113): Class 'Queries' not found
+[2023-05-12, 23:27:11] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/modules/CustomDropdown/module.php(113): Class 'Queries' not found
+[2023-05-12, 23:27:16] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/modules/CustomDropdown/module.php(113): Class 'Queries' not found
+[2023-05-12, 23:34:02] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/modules/CustomDropdown/module.php(113): Class 'Queries' not found
+[2023-05-13, 08:49:28] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/vendor/smarty/smarty/libs/sysplugins/smarty_internal_template.php(196): Unable to load template 'file:members/members.tpl'
+[2023-05-13, 08:49:31] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/vendor/smarty/smarty/libs/sysplugins/smarty_internal_template.php(196): Unable to load template 'file:members/members.tpl'
+[2023-05-13, 08:49:36] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/vendor/smarty/smarty/libs/sysplugins/smarty_internal_template.php(196): Unable to load template 'file:members/members.tpl'
+[2023-05-13, 08:59:56] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/vendor/smarty/smarty/libs/sysplugins/smarty_internal_template.php(196): Unable to load template 'file:members/members.tpl'
+[2023-05-13, 09:00:06] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/vendor/smarty/smarty/libs/sysplugins/smarty_internal_template.php(196): Unable to load template 'file:members/members.tpl'
+[2023-05-13, 09:00:10] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/vendor/smarty/smarty/libs/sysplugins/smarty_internal_template.php(196): Unable to load template 'file:members/members.tpl'
+[2023-05-13, 09:00:19] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/vendor/smarty/smarty/libs/sysplugins/smarty_internal_template.php(196): Unable to load template 'file:members/members.tpl'
+[2023-05-13, 09:00:26] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/vendor/smarty/smarty/libs/sysplugins/smarty_internal_template.php(196): Unable to load template 'file:members/members.tpl'
+[2023-05-13, 09:00:32] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/vendor/smarty/smarty/libs/sysplugins/smarty_internal_template.php(196): Unable to load template 'file:members/members.tpl'
+[2023-05-13, 09:06:56] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/modules/Badges/profile_tab.php(13): Class 'Queries' not found
+[2023-05-13, 09:07:17] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/modules/Badges/profile_tab.php(13): Class 'Queries' not found
+[2023-05-13, 09:08:25] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/vendor/smarty/smarty/libs/sysplugins/smarty_internal_template.php(196): Unable to load template 'file:badges/badges.tpl'
+[2023-05-13, 09:12:14] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/modules/CustomDropdown/module.php(113): Class 'Queries' not found
+[2023-05-13, 09:34:54] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/vendor/smarty/smarty/libs/sysplugins/smarty_internal_template.php(196): Unable to load template 'file:mcstatistics/profile_tab.tpl' in 'profile.tpl'
+[2023-05-13, 09:38:52] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/vendor/smarty/smarty/libs/sysplugins/smarty_internal_template.php(196): Unable to load template 'file:mcstatistics/profile_tab.tpl' in 'profile.tpl'
+[2023-05-13, 09:39:05] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/vendor/smarty/smarty/libs/sysplugins/smarty_internal_template.php(196): Unable to load template 'file:mcstatistics/profile_tab.tpl' in 'profile.tpl'
+[2023-05-13, 09:42:57] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/vendor/smarty/smarty/libs/sysplugins/smarty_internal_template.php(196): Unable to load template 'file:mcstatistics/profile_tab.tpl' in 'profile.tpl'
+[2023-05-13, 09:47:37] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/vendor/smarty/smarty/libs/sysplugins/smarty_internal_template.php(196): Unable to load template 'file:badges/badges.tpl'
+[2023-05-13, 10:50:04] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/vendor/smarty/smarty/libs/sysplugins/smarty_internal_template.php(196): Unable to load template 'file:badges/badges.tpl'
+[2023-05-13, 18:27:08] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/core/classes/Database/DB.php(253): SQLSTATE[HY000]: General error: 2006 MySQL server has gone away

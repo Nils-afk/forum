@@ -1,0 +1,349 @@
+[2023-05-12, 15:33:00] Phinx by CakePHP - https://phinx.org.
+
+using config file core/migrations/phinx.php
+using config parser php
+using migration paths 
+ - /home/vol1000_8/epizy.com/epiz_34193542/htdocs/core/migrations
+warning no environment specified, defaulting to: nameless
+using adapter mysql
+using database epiz_34193542_nameless
+ordering by creation time
+
+ == 20220517030607 CreateLanguagesTable: migrating
+ == 20220517030607 CreateLanguagesTable: migrated 0.0185s
+
+ == 20220517030609 CreateTemplatesTable: migrating
+ == 20220517030609 CreateTemplatesTable: migrated 0.0196s
+
+ == 20220517030611 CreateUsersTable: migrating
+ == 20220517030611 CreateUsersTable: migrated 0.0700s
+
+ == 20220517030657 CreateReactionsTable: migrating
+ == 20220517030657 CreateReactionsTable: migrated 0.0138s
+
+ == 20220518024302 CreatePanelTemplatesTable: migrating
+ == 20220518024302 CreatePanelTemplatesTable: migrated 0.0105s
+
+ == 20220518024945 CreateBlockedUsersTable: migrating
+ == 20220518024945 CreateBlockedUsersTable: migrated 0.0465s
+
+ == 20220518025652 CreateGroupsTable: migrating
+ == 20220518025652 CreateGroupsTable: migrated 0.0121s
+
+ == 20220518025817 CreateUsersGroupsTable: migrating
+ == 20220518025817 CreateUsersGroupsTable: migrated 0.0552s
+
+ == 20220518031216 CreateAlertsTable: migrating
+ == 20220518031216 CreateAlertsTable: migrated 0.0446s
+
+ == 20220518032305 CreateCustomAnnouncementsTable: migrating
+ == 20220518032305 CreateCustomAnnouncementsTable: migrated 0.0151s
+
+ == 20220518032919 CreateCustomPagesTable: migrating
+ == 20220518032919 CreateCustomPagesTable: migrated 0.0103s
+
+ == 20220518033833 CreateCustomPagesPermissionsTable: migrating
+ == 20220518033833 CreateCustomPagesPermissionsTable: migrated 0.0444s
+
+ == 20220518034729 CreateEmailErrorsTable: migrating
+ == 20220518034729 CreateEmailErrorsTable: migrated 0.0517s
+
+ == 20220518035532 CreateGroupsTemplatesTable: migrating
+ == 20220518035532 CreateGroupsTemplatesTable: migrated 0.0480s
+
+ == 20220518040058 CreateGroupSyncTable: migrating
+ == 20220518040058 CreateGroupSyncTable: migrated 0.0408s
+
+ == 20220518040456 CreateHooksTable: migrating
+ == 20220518040456 CreateHooksTable: migrated 0.0115s
+
+ == 20220518040806 CreateIpBansTable: migrating
+ == 20220518040806 CreateIpBansTable: migrated 0.0422s
+
+ == 20220519020719 CreateInfractionsTable: migrating
+ == 20220519020719 CreateInfractionsTable: migrated 0.0509s
+
+ == 20220519021237 CreateLogsTable: migrating
+ == 20220519021237 CreateLogsTable: migrated 0.0274s
+
+ == 20220519021711 CreateMcServersTable: migrating
+ == 20220519021711 CreateMcServersTable: migrated 0.0115s
+
+ == 20220519022400 CreateModulesTable: migrating
+ == 20220519022400 CreateModulesTable: migrated 0.0189s
+
+ == 20220519022945 CreateWidgetsTable: migrating
+ == 20220519022945 CreateWidgetsTable: migrated 0.0195s
+
+ == 20220519023439 CreatePrivacyTermsTable: migrating
+ == 20220519023439 CreatePrivacyTermsTable: migrated 0.0118s
+
+ == 20220519023748 CreateOauthTable: migrating
+ == 20220519023748 CreateOauthTable: migrated 0.0142s
+
+ == 20220519024247 CreateOauthUsersTable: migrating
+ == 20220519024247 CreateOauthUsersTable: migrated 0.0393s
+
+ == 20220519024833 CreateOnlineGuestsTable: migrating
+ == 20220519024833 CreateOnlineGuestsTable: migrated 0.0113s
+
+ == 20220519025351 CreatePageDescriptionsTable: migrating
+ == 20220519025351 CreatePageDescriptionsTable: migrated 0.0141s
+
+ == 20220519025851 CreatePrivateMessagesTable: migrating
+ == 20220519025851 CreatePrivateMessagesTable: migrated 0.0407s
+
+ == 20220519030416 CreatePrivateMessagesRepliesTable: migrating
+ == 20220519030416 CreatePrivateMessagesRepliesTable: migrated 0.0512s
+
+ == 20220519030902 CreatePrivateMessagesUsersTable: migrating
+ == 20220519030902 CreatePrivateMessagesUsersTable: migrated 0.0504s
+
+ == 20220519031223 CreateProfileFieldsTable: migrating
+ == 20220519031223 CreateProfileFieldsTable: migrated 0.0106s
+
+ == 20220519031732 CreateUsersProfileFieldsTable: migrating
+ == 20220519031732 CreateUsersProfileFieldsTable: migrated 0.0648s
+
+ == 20220519032328 CreateUsersSessionTable: migrating
+ == 20220519032328 CreateUsersSessionTable: migrated 0.0598s
+
+ == 20220519034124 CreateUsersIpsTable: migrating
+ == 20220519034124 CreateUsersIpsTable: migrated 0.0397s
+
+ == 20220519040344 CreateUsersAdminSessionTable: migrating
+ == 20220519040344 CreateUsersAdminSessionTable: migrated 0.0419s
+
+ == 20220519040925 CreateIntegrationsTable: migrating
+ == 20220519040925 CreateIntegrationsTable: migrated 0.0142s
+
+ == 20220519041811 CreateUsersIntegrationsTable: migrating
+ == 20220519041811 CreateUsersIntegrationsTable: migrated 0.0486s
+
+ == 20220519150540 CreatePlaceholdersSettingsTable: migrating
+ == 20220519150540 CreatePlaceholdersSettingsTable: migrated 0.0344s
+
+ == 20220519151124 CreateUsersPlaceholdersTable: migrating
+ == 20220519151124 CreateUsersPlaceholdersTable: migrated 0.0388s
+
+ == 20220519152021 CreateUserProfileWallPostsTable: migrating
+ == 20220519152021 CreateUserProfileWallPostsTable: migrated 0.0426s
+
+ == 20220519152346 CreateUserProfileWallPostsReactionsTable: migrating
+ == 20220519152346 CreateUserProfileWallPostsReactionsTable: migrated 0.0477s
+
+ == 20220519152544 CreateUserProfileWallPostsRepliesTable: migrating
+ == 20220519152544 CreateUserProfileWallPostsRepliesTable: migrated 0.0459s
+
+ == 20220519153135 CreateForumsTable: migrating
+ == 20220519153135 CreateForumsTable: migrated 0.0483s
+
+ == 20220519153136 CreateTopicsTable: migrating
+ == 20220519153136 CreateTopicsTable: migrated 0.0725s
+
+ == 20220519153137 CreatePostsTable: migrating
+ == 20220519153137 CreatePostsTable: migrated 0.0547s
+
+ == 20220519153139 CreateReportsTable: migrating
+ == 20220519153139 CreateReportsTable: migrated 0.0475s
+
+ == 20220519153651 CreateReportsCommentsTable: migrating
+ == 20220519153651 CreateReportsCommentsTable: migrated 0.0452s
+
+ == 20220519154102 CreateSettingsTable: migrating
+ == 20220519154102 CreateSettingsTable: migrated 0.0199s
+
+ == 20220519154314 CreateQueryErrorsTable: migrating
+ == 20220519154314 CreateQueryErrorsTable: migrated 0.0131s
+
+ == 20220519154440 CreateQueryResultsTable: migrating
+ == 20220519154440 CreateQueryResultsTable: migrated 0.0366s
+
+ == 20220519154832 CreateForumsLabelsTable: migrating
+ == 20220519154832 CreateForumsLabelsTable: migrated 0.0171s
+
+ == 20220519161304 CreateTopicsFollowingTable: migrating
+ == 20220519161304 CreateTopicsFollowingTable: migrated 0.0507s
+
+ == 20220519161539 CreateForumsPermissionsTable: migrating
+ == 20220519161539 CreateForumsPermissionsTable: migrated 0.0426s
+
+ == 20220519161812 CreateForumsReactionsTable: migrating
+ == 20220519161812 CreateForumsReactionsTable: migrated 0.0448s
+
+ == 20220519161954 CreateForumsTopicLabelsTable: migrating
+ == 20220519161954 CreateForumsTopicLabelsTable: migrated 0.0156s
+
+ == 20220525051321 CreateUuidCacheTable: migrating
+ == 20220525051321 CreateUuidCacheTable: migrated 0.0124s
+
+ == 20220525051337 CreateUsersUsernameHistoryTable: migrating
+ == 20220525051337 CreateUsersUsernameHistoryTable: migrated 0.0386s
+
+ == 20220602132634 NullablePostDate: migrating
+ == 20220602132634 NullablePostDate: migrated 0.0351s
+
+ == 20220609184529 MakeUsernameColumnNullableOnUserIntegrationsTable: migrating
+ == 20220609184529 MakeUsernameColumnNullableOnUserIntegrationsTable: migrated 0.0480s
+
+ == 20220612041555 DropGroupHtmlLgColumnOnGroupsTable: migrating
+ == 20220612041555 DropGroupHtmlLgColumnOnGroupsTable: migrated 0.0027s
+
+ == 20220620183016 AddModuleSettingsColumn: migrating
+ == 20220620183016 AddModuleSettingsColumn: migrated 0.0182s
+
+ == 20220620190645 MoveEmailSettingsToConfig: migrating
+ == 20220620190645 MoveEmailSettingsToConfig: migrated 0.0015s
+
+ == 20220805152044 ForumPostMediumText: migrating
+ == 20220805152044 ForumPostMediumText: migrated 0.0338s
+
+ == 20220805152052 PrivateMessageMediumText: migrating
+ == 20220805152052 PrivateMessageMediumText: migrated 0.0322s
+
+ == 20220805152101 CustomPageMediumText: migrating
+ == 20220805152101 CustomPageMediumText: migrated 0.0207s
+
+ == 20220805153842 LogInfoMediumText: migrating
+ == 20220805153842 LogInfoMediumText: migrated 0.0298s
+
+ == 20220805174255 SettingsValueText: migrating
+ == 20220805174255 SettingsValueText: migrated 0.0353s
+
+ == 20220807142446 AddUserSessionActivityColumns: migrating
+ == 20220807142446 AddUserSessionActivityColumns: migrated 0.0353s
+
+ == 20220807153708 DeleteAdminSessionTable: migrating
+ == 20220807153708 DeleteAdminSessionTable: migrated 0.0059s
+
+ == 20220921014904 CreateMemberListsTable: migrating
+ == 20220921014904 CreateMemberListsTable: migrated 0.0231s
+
+ == 20221230144555 ReportsReportedIdNullable: migrating
+ == 20221230144555 ReportsReportedIdNullable: migrated 0.0126s
+
+ == 20230114124352 UsersNightModeNullable: migrating
+ == 20230114124352 UsersNightModeNullable: migrated 0.0287s
+
+ == 20230121015140 AddAuthMeColumnsToUserTable: migrating
+ == 20230121015140 AddAuthMeColumnsToUserTable: migrated 0.0099s
+
+ == 20230206192726 CreateQueueTable: migrating
+ == 20230206192726 CreateQueueTable: migrated 0.0449s
+
+ == 20230302090631 AddImageColumnToPageDescriptionsTable: migrating
+ == 20230302090631 AddImageColumnToPageDescriptionsTable: migrated 0.0063s
+
+All Done. Took 2.4592s
+
+[2023-05-12, 20:13:18] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/8f9e96b47f7e19c0dfc02001c18e7cef90cfdf93_0.file.header.tpl.php(88) 8: Undefined index: OG_IMAGE
+[2023-05-12, 20:13:24] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/8f9e96b47f7e19c0dfc02001c18e7cef90cfdf93_0.file.header.tpl.php(88) 8: Trying to get property 'value' of non-object
+[2023-05-12, 20:13:24] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/8f9e96b47f7e19c0dfc02001c18e7cef90cfdf93_0.file.header.tpl.php(90) 8: Undefined index: PAGE_DESCRIPTION
+[2023-05-12, 20:13:24] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/8f9e96b47f7e19c0dfc02001c18e7cef90cfdf93_0.file.header.tpl.php(90) 8: Trying to get property 'value' of non-object
+[2023-05-12, 20:13:24] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/8f9e96b47f7e19c0dfc02001c18e7cef90cfdf93_0.file.header.tpl.php(98) 8: Undefined index: OG_IMAGE
+[2023-05-12, 20:13:24] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/8f9e96b47f7e19c0dfc02001c18e7cef90cfdf93_0.file.header.tpl.php(98) 8: Trying to get property 'value' of non-object
+[2023-05-12, 20:13:24] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/98af7910d2a4fb0813c08b0f14347e464fef8767_0.file.navbar.tpl.php(174) 8: Undefined index: icon
+[2023-05-12, 20:13:24] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/98af7910d2a4fb0813c08b0f14347e464fef8767_0.file.navbar.tpl.php(174) 8: Undefined index: icon
+[2023-05-12, 20:13:24] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/98af7910d2a4fb0813c08b0f14347e464fef8767_0.file.navbar.tpl.php(174) 8: Undefined index: icon
+[2023-05-12, 20:13:24] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/98af7910d2a4fb0813c08b0f14347e464fef8767_0.file.navbar.tpl.php(174) 8: Undefined index: icon
+[2023-05-12, 20:13:24] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/98af7910d2a4fb0813c08b0f14347e464fef8767_0.file.navbar.tpl.php(166) 8: Undefined index: icon
+[2023-05-12, 20:13:25] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/core/templates/frontend_init.php(129) 8: Undefined variable: page_title
+[2023-05-12, 20:13:28] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/8f9e96b47f7e19c0dfc02001c18e7cef90cfdf93_0.file.header.tpl.php(88) 8: Undefined index: OG_IMAGE
+[2023-05-12, 20:13:28] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/8f9e96b47f7e19c0dfc02001c18e7cef90cfdf93_0.file.header.tpl.php(88) 8: Trying to get property 'value' of non-object
+[2023-05-12, 20:13:28] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/8f9e96b47f7e19c0dfc02001c18e7cef90cfdf93_0.file.header.tpl.php(90) 8: Undefined index: PAGE_DESCRIPTION
+[2023-05-12, 20:13:28] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/8f9e96b47f7e19c0dfc02001c18e7cef90cfdf93_0.file.header.tpl.php(90) 8: Trying to get property 'value' of non-object
+[2023-05-12, 20:13:28] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/8f9e96b47f7e19c0dfc02001c18e7cef90cfdf93_0.file.header.tpl.php(98) 8: Undefined index: OG_IMAGE
+[2023-05-12, 20:13:28] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/8f9e96b47f7e19c0dfc02001c18e7cef90cfdf93_0.file.header.tpl.php(98) 8: Trying to get property 'value' of non-object
+[2023-05-12, 20:13:28] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/98af7910d2a4fb0813c08b0f14347e464fef8767_0.file.navbar.tpl.php(174) 8: Undefined index: icon
+[2023-05-12, 20:13:28] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/98af7910d2a4fb0813c08b0f14347e464fef8767_0.file.navbar.tpl.php(174) 8: Undefined index: icon
+[2023-05-12, 20:13:28] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/98af7910d2a4fb0813c08b0f14347e464fef8767_0.file.navbar.tpl.php(174) 8: Undefined index: icon
+[2023-05-12, 20:13:28] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/98af7910d2a4fb0813c08b0f14347e464fef8767_0.file.navbar.tpl.php(174) 8: Undefined index: icon
+[2023-05-12, 20:13:28] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/98af7910d2a4fb0813c08b0f14347e464fef8767_0.file.navbar.tpl.php(166) 8: Undefined index: icon
+[2023-05-12, 20:13:28] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/core/templates/frontend_init.php(129) 8: Undefined variable: page_title
+[2023-05-12, 20:16:00] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/modules/Core/pages/panel/modules.php(107) 2: Invalid argument supplied for foreach()
+[2023-05-12, 20:16:00] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/012bf26cee53656ebd229d022fe0f705d94de384_0.file.modules.tpl.php(232) 8: Undefined index: WEBSITE_MODULES_ERROR
+[2023-05-12, 20:16:00] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/012bf26cee53656ebd229d022fe0f705d94de384_0.file.modules.tpl.php(232) 8: Trying to get property 'value' of non-object
+[2023-05-12, 20:16:29] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/core/classes/Misc/NamelessOAuth.php(202) 8: Trying to get property 'client_id' of non-object
+[2023-05-12, 20:16:29] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/core/classes/Misc/NamelessOAuth.php(203) 8: Trying to get property 'client_secret' of non-object
+[2023-05-12, 20:16:29] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/core/classes/Misc/NamelessOAuth.php(148) 8: Trying to get property 'enabled' of non-object
+[2023-05-12, 20:16:29] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/core/classes/Misc/NamelessOAuth.php(148) 8: Trying to get property 'enabled' of non-object
+[2023-05-12, 20:16:29] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/core/classes/Misc/NamelessOAuth.php(202) 8: Trying to get property 'client_id' of non-object
+[2023-05-12, 20:16:29] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/core/classes/Misc/NamelessOAuth.php(203) 8: Trying to get property 'client_secret' of non-object
+[2023-05-12, 20:16:29] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/core/classes/Misc/NamelessOAuth.php(148) 8: Trying to get property 'enabled' of non-object
+[2023-05-12, 20:16:29] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/core/classes/Misc/NamelessOAuth.php(148) 8: Trying to get property 'enabled' of non-object
+[2023-05-12, 20:16:45] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/core/classes/Misc/NamelessOAuth.php(202) 8: Trying to get property 'client_id' of non-object
+[2023-05-12, 20:16:45] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/core/classes/Misc/NamelessOAuth.php(203) 8: Trying to get property 'client_secret' of non-object
+[2023-05-12, 20:16:45] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/core/classes/Misc/NamelessOAuth.php(148) 8: Trying to get property 'enabled' of non-object
+[2023-05-12, 20:16:45] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/core/classes/Misc/NamelessOAuth.php(148) 8: Trying to get property 'enabled' of non-object
+[2023-05-12, 20:16:45] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/core/classes/Misc/NamelessOAuth.php(202) 8: Trying to get property 'client_id' of non-object
+[2023-05-12, 20:16:45] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/core/classes/Misc/NamelessOAuth.php(203) 8: Trying to get property 'client_secret' of non-object
+[2023-05-12, 20:16:45] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/core/classes/Misc/NamelessOAuth.php(148) 8: Trying to get property 'enabled' of non-object
+[2023-05-12, 20:16:45] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/core/classes/Misc/NamelessOAuth.php(148) 8: Trying to get property 'enabled' of non-object
+[2023-05-12, 20:25:27] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/8f9e96b47f7e19c0dfc02001c18e7cef90cfdf93_0.file.header.tpl.php(88) 8: Undefined index: OG_IMAGE
+[2023-05-12, 20:25:27] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/8f9e96b47f7e19c0dfc02001c18e7cef90cfdf93_0.file.header.tpl.php(88) 8: Trying to get property 'value' of non-object
+[2023-05-12, 20:25:27] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/8f9e96b47f7e19c0dfc02001c18e7cef90cfdf93_0.file.header.tpl.php(90) 8: Undefined index: PAGE_DESCRIPTION
+[2023-05-12, 20:25:27] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/8f9e96b47f7e19c0dfc02001c18e7cef90cfdf93_0.file.header.tpl.php(90) 8: Trying to get property 'value' of non-object
+[2023-05-12, 20:25:27] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/8f9e96b47f7e19c0dfc02001c18e7cef90cfdf93_0.file.header.tpl.php(98) 8: Undefined index: OG_IMAGE
+[2023-05-12, 20:25:27] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/8f9e96b47f7e19c0dfc02001c18e7cef90cfdf93_0.file.header.tpl.php(98) 8: Trying to get property 'value' of non-object
+[2023-05-12, 20:25:27] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/98af7910d2a4fb0813c08b0f14347e464fef8767_0.file.navbar.tpl.php(174) 8: Undefined index: icon
+[2023-05-12, 20:25:27] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/98af7910d2a4fb0813c08b0f14347e464fef8767_0.file.navbar.tpl.php(174) 8: Undefined index: icon
+[2023-05-12, 20:25:27] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/98af7910d2a4fb0813c08b0f14347e464fef8767_0.file.navbar.tpl.php(174) 8: Undefined index: icon
+[2023-05-12, 20:25:27] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/98af7910d2a4fb0813c08b0f14347e464fef8767_0.file.navbar.tpl.php(174) 8: Undefined index: icon
+[2023-05-12, 20:25:27] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/98af7910d2a4fb0813c08b0f14347e464fef8767_0.file.navbar.tpl.php(166) 8: Undefined index: icon
+[2023-05-12, 20:25:28] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/core/templates/frontend_init.php(129) 8: Undefined variable: page_title
+[2023-05-12, 20:27:14] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/8f9e96b47f7e19c0dfc02001c18e7cef90cfdf93_0.file.header.tpl.php(88) 8: Undefined index: OG_IMAGE
+[2023-05-12, 20:27:14] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/8f9e96b47f7e19c0dfc02001c18e7cef90cfdf93_0.file.header.tpl.php(88) 8: Trying to get property 'value' of non-object
+[2023-05-12, 20:27:14] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/8f9e96b47f7e19c0dfc02001c18e7cef90cfdf93_0.file.header.tpl.php(90) 8: Undefined index: PAGE_DESCRIPTION
+[2023-05-12, 20:27:14] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/8f9e96b47f7e19c0dfc02001c18e7cef90cfdf93_0.file.header.tpl.php(90) 8: Trying to get property 'value' of non-object
+[2023-05-12, 20:27:14] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/8f9e96b47f7e19c0dfc02001c18e7cef90cfdf93_0.file.header.tpl.php(98) 8: Undefined index: OG_IMAGE
+[2023-05-12, 20:27:14] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/8f9e96b47f7e19c0dfc02001c18e7cef90cfdf93_0.file.header.tpl.php(98) 8: Trying to get property 'value' of non-object
+[2023-05-12, 20:27:14] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/98af7910d2a4fb0813c08b0f14347e464fef8767_0.file.navbar.tpl.php(174) 8: Undefined index: icon
+[2023-05-12, 20:27:14] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/98af7910d2a4fb0813c08b0f14347e464fef8767_0.file.navbar.tpl.php(174) 8: Undefined index: icon
+[2023-05-12, 20:27:14] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/98af7910d2a4fb0813c08b0f14347e464fef8767_0.file.navbar.tpl.php(174) 8: Undefined index: icon
+[2023-05-12, 20:27:14] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/98af7910d2a4fb0813c08b0f14347e464fef8767_0.file.navbar.tpl.php(174) 8: Undefined index: icon
+[2023-05-12, 20:27:14] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/98af7910d2a4fb0813c08b0f14347e464fef8767_0.file.navbar.tpl.php(166) 8: Undefined index: icon
+[2023-05-12, 20:27:18] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/core/templates/frontend_init.php(129) 8: Undefined variable: page_title
+[2023-05-12, 20:27:23] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/modules/Core/module.php(672) 8: Undefined index: widgets
+[2023-05-12, 20:27:23] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/modules/Forum/module.php(236) 8: Undefined index: widgets
+[2023-05-12, 20:27:23] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/modules/Discord Integration/module.php(58) 8: Undefined index: widgets
+[2023-05-12, 20:27:23] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/8f9e96b47f7e19c0dfc02001c18e7cef90cfdf93_0.file.header.tpl.php(88) 8: Undefined index: OG_IMAGE
+[2023-05-12, 20:27:23] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/8f9e96b47f7e19c0dfc02001c18e7cef90cfdf93_0.file.header.tpl.php(88) 8: Trying to get property 'value' of non-object
+[2023-05-12, 20:27:23] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/8f9e96b47f7e19c0dfc02001c18e7cef90cfdf93_0.file.header.tpl.php(90) 8: Undefined index: PAGE_DESCRIPTION
+[2023-05-12, 20:27:23] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/8f9e96b47f7e19c0dfc02001c18e7cef90cfdf93_0.file.header.tpl.php(90) 8: Trying to get property 'value' of non-object
+[2023-05-12, 20:27:23] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/8f9e96b47f7e19c0dfc02001c18e7cef90cfdf93_0.file.header.tpl.php(98) 8: Undefined index: OG_IMAGE
+[2023-05-12, 20:27:23] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/8f9e96b47f7e19c0dfc02001c18e7cef90cfdf93_0.file.header.tpl.php(98) 8: Trying to get property 'value' of non-object
+[2023-05-12, 20:28:00] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/modules/Core/module.php(672) 8: Undefined index: widgets
+[2023-05-12, 20:28:00] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/modules/Forum/module.php(236) 8: Undefined index: widgets
+[2023-05-12, 20:28:00] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/modules/Discord Integration/module.php(58) 8: Undefined index: widgets
+[2023-05-12, 20:28:00] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/8f9e96b47f7e19c0dfc02001c18e7cef90cfdf93_0.file.header.tpl.php(88) 8: Undefined index: OG_IMAGE
+[2023-05-12, 20:28:00] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/8f9e96b47f7e19c0dfc02001c18e7cef90cfdf93_0.file.header.tpl.php(88) 8: Trying to get property 'value' of non-object
+[2023-05-12, 20:28:00] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/8f9e96b47f7e19c0dfc02001c18e7cef90cfdf93_0.file.header.tpl.php(90) 8: Undefined index: PAGE_DESCRIPTION
+[2023-05-12, 20:28:00] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/8f9e96b47f7e19c0dfc02001c18e7cef90cfdf93_0.file.header.tpl.php(90) 8: Trying to get property 'value' of non-object
+[2023-05-12, 20:28:00] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/8f9e96b47f7e19c0dfc02001c18e7cef90cfdf93_0.file.header.tpl.php(98) 8: Undefined index: OG_IMAGE
+[2023-05-12, 20:28:00] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/8f9e96b47f7e19c0dfc02001c18e7cef90cfdf93_0.file.header.tpl.php(98) 8: Trying to get property 'value' of non-object
+[2023-05-12, 20:28:03] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/core/init.php(640) 8: Undefined index: checked
+[2023-05-12, 20:28:03] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/core/classes/Misc/NamelessOAuth.php(148) 8: Trying to get property 'enabled' of non-object
+[2023-05-12, 20:28:03] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/core/classes/Misc/NamelessOAuth.php(148) 8: Trying to get property 'enabled' of non-object
+[2023-05-12, 20:28:03] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/core/classes/Misc/NamelessOAuth.php(148) 8: Trying to get property 'enabled' of non-object
+[2023-05-12, 20:28:03] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/core/classes/Misc/NamelessOAuth.php(148) 8: Trying to get property 'enabled' of non-object
+[2023-05-12, 20:28:03] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/8f9e96b47f7e19c0dfc02001c18e7cef90cfdf93_0.file.header.tpl.php(88) 8: Undefined index: OG_IMAGE
+[2023-05-12, 20:28:03] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/8f9e96b47f7e19c0dfc02001c18e7cef90cfdf93_0.file.header.tpl.php(88) 8: Trying to get property 'value' of non-object
+[2023-05-12, 20:28:03] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/8f9e96b47f7e19c0dfc02001c18e7cef90cfdf93_0.file.header.tpl.php(90) 8: Undefined index: PAGE_DESCRIPTION
+[2023-05-12, 20:28:03] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/8f9e96b47f7e19c0dfc02001c18e7cef90cfdf93_0.file.header.tpl.php(90) 8: Trying to get property 'value' of non-object
+[2023-05-12, 20:28:03] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/8f9e96b47f7e19c0dfc02001c18e7cef90cfdf93_0.file.header.tpl.php(98) 8: Undefined index: OG_IMAGE
+[2023-05-12, 20:28:03] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/8f9e96b47f7e19c0dfc02001c18e7cef90cfdf93_0.file.header.tpl.php(98) 8: Trying to get property 'value' of non-object
+[2023-05-12, 20:28:03] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/e75c4ebb611721e1a185aa723bb34938336b5db4_0.file.login.tpl.php(96) 8: Undefined index: CAPTCHA
+[2023-05-12, 20:28:03] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/e75c4ebb611721e1a185aa723bb34938336b5db4_0.file.login.tpl.php(96) 8: Trying to get property 'value' of non-object
+[2023-05-12, 20:28:05] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/core/templates/frontend_init.php(129) 8: Undefined variable: page_title
+[2023-05-12, 20:28:06] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/core/classes/Misc/NamelessOAuth.php(148) 8: Trying to get property 'enabled' of non-object
+[2023-05-12, 20:28:06] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/core/classes/Misc/NamelessOAuth.php(148) 8: Trying to get property 'enabled' of non-object
+[2023-05-12, 20:28:06] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/core/classes/Misc/NamelessOAuth.php(148) 8: Trying to get property 'enabled' of non-object
+[2023-05-12, 20:28:06] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/core/classes/Misc/NamelessOAuth.php(148) 8: Trying to get property 'enabled' of non-object
+[2023-05-12, 20:28:06] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/8f9e96b47f7e19c0dfc02001c18e7cef90cfdf93_0.file.header.tpl.php(88) 8: Undefined index: OG_IMAGE
+[2023-05-12, 20:28:06] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/8f9e96b47f7e19c0dfc02001c18e7cef90cfdf93_0.file.header.tpl.php(88) 8: Trying to get property 'value' of non-object
+[2023-05-12, 20:28:06] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/8f9e96b47f7e19c0dfc02001c18e7cef90cfdf93_0.file.header.tpl.php(90) 8: Undefined index: PAGE_DESCRIPTION
+[2023-05-12, 20:28:06] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/8f9e96b47f7e19c0dfc02001c18e7cef90cfdf93_0.file.header.tpl.php(90) 8: Trying to get property 'value' of non-object
+[2023-05-12, 20:28:06] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/8f9e96b47f7e19c0dfc02001c18e7cef90cfdf93_0.file.header.tpl.php(98) 8: Undefined index: OG_IMAGE
+[2023-05-12, 20:28:06] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/8f9e96b47f7e19c0dfc02001c18e7cef90cfdf93_0.file.header.tpl.php(98) 8: Trying to get property 'value' of non-object
+[2023-05-12, 20:28:06] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/e75c4ebb611721e1a185aa723bb34938336b5db4_0.file.login.tpl.php(96) 8: Undefined index: CAPTCHA
+[2023-05-12, 20:28:06] /home/vol1000_8/epizy.com/epiz_34193542/htdocs/cache/templates_c/e75c4ebb611721e1a185aa723bb34938336b5db4_0.file.login.tpl.php(96) 8: Trying to get property 'value' of non-object
